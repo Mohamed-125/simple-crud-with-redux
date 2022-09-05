@@ -1,14 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.text-editor-div {
-  max-width: 900px;
-  margin: auto;
-}
-
-.rdw-editor-main {
-  background-color: rgba(0, 0, 0, 0.103);
+.user-div {
+  width: 400px;
+  height: 150px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
 }
