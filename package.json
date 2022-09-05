@@ -1,6 +1,6 @@
 {
   "homepage": "https://Mohamed-125.github.io/simple-crud-with-redux",
-  "name": "curd-app-with-redux",
+  "name": "crud-app-with-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
